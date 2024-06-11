@@ -1,0 +1,11 @@
+## danh sách chức năng
+- Render song
+- Scroll top
+- Play/ pause/ seek
+- CD rorate
+- next/ prev
+- random
+- next/ repeat when ended
+- active song
+- scroll active song into view
+- play song when click
